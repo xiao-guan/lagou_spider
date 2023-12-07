@@ -1,0 +1,8 @@
+{
+"url":"https://m.lagou.com/wn/searchPosition",
+"thread_num": 3,
+"payload":{"keywords":["c++"], "city": ["深圳", "广州", "杭州", "北京", "上海"], "pageNo": "100"},
+"headers":{
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+}
+}
